@@ -1,0 +1,6 @@
+name: QuixAnomallyDetection
+language: python
+variables: []
+dockerfile: dockerfile
+runEntryPoint: main.py
+defaultFile: main.py
